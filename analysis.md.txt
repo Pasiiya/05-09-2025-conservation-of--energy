@@ -21,3 +21,10 @@ Breakdowns & Implications:
 Expanding Universe: Challenges global energy conservation (-> Cosmology)
 Dark Energy: Seems to violate energy conservation (-> Quantum Field Theory)
 Quantum Fluctuations: Allow temporary violation (-> Quantum Mechanics)
+
+Problem 2:
+Assumption: energy is conserved in isolated systems → Where does it break?
+
+1. Cosmological expansion:In cosmology, energy conservation breaks down because the universe is not a static, isolated system. The expansion of spacetime allows energy to "disappear" (e.g., photon redshift) or "appear" (e.g., dark energy), violating classical energy conservation.
+
+2.Quantum tunneling(Quantum Mechanics):Quantum tunneling allows temporary violations of energy conservation due to the uncertainty principle. However, over large timescales or in macroscopic systems, energy conservation holds statistically.
