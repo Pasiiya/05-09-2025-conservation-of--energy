@@ -1,0 +1,23 @@
+The Problem:
+
+A roller coaster car of mass m=500kg starts from rest at a height h=40m above the ground. It travels down a frictionless track and goes through a circular loop of radius R = 10m R=10m.
+What is the speed of the car at the top of the loop?
+(Solve this using conservation of energy.)
+
+Solution: 
+	
+v= (2g(h−2R))^1/2
+ ≈19.8m/s
+Assumptions Hunted:
+
+Closed System
+Energy not created/destroyed
+Classical definitions
+Conservative force (gravity)
+Absolute time & space
+
+Breakdowns & Implications:
+
+Expanding Universe: Challenges global energy conservation (-> Cosmology)
+Dark Energy: Seems to violate energy conservation (-> Quantum Field Theory)
+Quantum Fluctuations: Allow temporary violation (-> Quantum Mechanics)
